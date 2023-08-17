@@ -12,7 +12,7 @@ Barometric pressure: Hg
 Wind direction: degrees
 Wind speed: miles per hour
 Sunrise/sunset: Hawaii time
-Link: https://www.kaggle.com/datasets/dronio/SolarEnergy
+
 
 What I have done on the Project:
 Importing Libraries
